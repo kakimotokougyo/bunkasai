@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0031)https://www.go-pass.net/kaijoj/ -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>試験一覧 | 海城中学校２０XX年度入学試験合格発表</title>
+<link href="./試験一覧 _ 海城中学校２０２２年度入学試験合格発表_files/common.css" rel="stylesheet" type="text/css" media="all">
+<link href="./試験一覧 _ 海城中学校２０２２年度入学試験合格発表_files/mc.css" rel="stylesheet" type="text/css" media="all">
+<link href="./試験一覧 _ 海城中学校２０２２年度入学試験合格発表_files/resposive.css" rel="stylesheet" type="text/css" media="screen and (max-width: 920px)">
+<link rel="shortcut icon" href="https://www.go-pass.net/favicon.ico">
+</head>
+
+<body class="stylemc5">
+
+<script async="" src="./試験一覧 _ 海城中学校２０XX年度入学試験合格発表_files/analytics.js.ダウンロード"></script><script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-58227219-1', 'auto');
+	ga('send', 'pageview');
+
+	</script>
+
+<div id="center">
+
+	<div id="header">
+		<h1>海城中学校</h1>
+		<div class="header_b">２０２２年度入学試験合格発表</div>
+	</div>
+
+	<div class="access">アクセス時間：<span>20XX年02月02日（火） 20時59分59秒</span></div>
+
+	<div class="content">
+
+		
+					<form name="form1" method="post" action="https://www.go-pass.net/kaijoj/login.php">
+				<div class="times">
+					<h2>帰国生入試</h2>
+						<div class="base2em clearfix">
+							<div class="leftcol">
+								<div class="toprow">発表開始時間：　<span>20XX年01月08日（土）　09時00分</span></div>
+								<div class="bottomrow">発表終了時間：　<span>20XX年03月31日（木）　23時59分</span></div>
+							</div>
+							<div class="rightcol">
+								<a href="https://kakikou.webnode.jp/_files/200000004-5b4945b496/450/aafcf20b-39d7-48ea-8e0b-ace0ac4c606e.jpeg?ph=5787e7490c" title="合否結果">合否結果</a>
+														<input name="exam_id" type="hidden" id="exam_id" value="3">
+								<input name="exam_title" type="hidden" id="exam_title" value="帰国生入試">
+							</div>
+						</div>
+				</div><!--times-->
+			</form>
+					<form name="form1" method="post" action="https://www.go-pass.net/kaijoj/login.php">
+				<div class="times">
+					<h2>一般入試①</h2>
+						<div class="base2em clearfix">
+							<div class="leftcol">
+								<div class="toprow">発表開始時間：　<span>20XX年02月02日（水）　12時00分</span></div>
+								<div class="bottomrow">発表終了時間：　<span>20XX年03月31日（木）　23時59分</span></div>
+							</div>
+							<div class="rightcol">
+								<a href="https://kakikou.webnode.jp/_files/200000004-5b4945b496/450/aafcf20b-39d7-48ea-8e0b-ace0ac4c606e.jpeg?ph=5787e7490c" title="合否結果">合否結果</a>
+														<input name="exam_id" type="hidden" id="exam_id" value="3">
+								<input name="exam_title" type="hidden" id="exam_title" value="一般入試①">
+							</div>
+						</div>
+				</div><!--times-->
+			</form>
+					<form name="form1" method="post" action="https://www.go-pass.net/kaijoj/login.php">
+				<div class="times">
+					<h2>一般入試②</h2>
+						<div class="base2em clearfix">
+							<div class="leftcol">
+								<div class="toprow">発表開始時間：　<span>20XX年02月04日（金）　12時00分</span></div>
+								<div class="bottomrow">発表終了時間：　<span>20XX年03月31日（木）　23時59分</span></div>
+							</div>
+							<div class="rightcol">
+								発表時間までお待ちください								<input name="exam_id" type="hidden" id="exam_id" value="5">
+								<input name="exam_title" type="hidden" id="exam_title" value="一般入試②">
+							</div>
+						</div>
+				</div><!--times-->
+			</form>
+					<form name="form1" method="post" action="https://www.go-pass.net/kaijoj/login.php">
+				<div class="times">
+					<h2>春期海外帰国子弟転・編入試験</h2>
+						<div class="base2em clearfix">
+							<div class="leftcol">
+								<div class="toprow">発表開始時間：　<span>20XX年03月09日（水）　14時00分</span></div>
+								<div class="bottomrow">発表終了時間：　<span>20XX年03月31日（木）　23時59分</span></div>
+							</div>
+							<div class="rightcol">
+								発表時間までお待ちください								<input name="exam_id" type="hidden" id="exam_id" value="6">
+								<input name="exam_title" type="hidden" id="exam_title" value="春期海外帰国子弟転・編入試験">
+							</div>
+						</div>
+				</div><!--times-->
+			</form>
+		
+					<div class="end">
+				<h3>発表を終了した試験</h3>
+				
+						<div class="times">
+							<h2>夏期海外帰国子弟転・編入試験</h2>
+								<div class="base2em clearfix">
+									<div class="leftcol">
+										<div class="toprow">発表開始時間：　<span>20XX年08月16日（月）　14時00分</span></div>
+										<div class="bottomrow">発表終了時間：　<span>20XX年08月16日（月）　23時59分</span></div>
+									</div>
+									<div class="rightcol">
+										発表は終了しました
+									</div>
+								</div>
+						</div><!--times-->
+								</div><!--end-->
+		
+	</div><!--content-->
+
+	<div id="comment">■注意事項<br>
+	  ・発表時間を過ぎても次画面へのボタンが表示されない場合、ブラウザの「更新」「再読込」ボタンなどを押してください。<br>
+	  ・回線が混みあい、接続に時間がかかることがあります。しばらくしてからアクセスしてください。</div>
+	<div id="copy">海城中学校</div>
+
+</div><!--center-->
+
+
+<iframe frameborder="0" scrolling="no" style="background-color: transparent; border: 0px; display: none;" src="./試験一覧 _ 海城中学校２０２２年度入学試験合格発表_files/saved_resource.html"></iframe><div id="GOOGLE_INPUT_CHEXT_FLAG" input="" input_stat="{&quot;tlang&quot;:true,&quot;tsbc&quot;:true,&quot;pun&quot;:true,&quot;mk&quot;:true,&quot;ss&quot;:true}" style="display: none;"></div></body></html>
